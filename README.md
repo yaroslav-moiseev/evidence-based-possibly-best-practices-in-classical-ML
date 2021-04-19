@@ -1,5 +1,5 @@
 # evidence-based-possibly-best-practices-in-classical-ML
-В данном проекте решалась задача бинарной классификации клиентов, которые могут сделать вклад.
+В данном проекте решалась задача бинарной классификации. 
 
 Данные для проекта были взяты из [https://archive.ics.uci.edu/ml/datasets/Bank+Marketing](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
