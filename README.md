@@ -215,6 +215,16 @@ Optuna позволяет легко визуализировать гиперп
 
 Дополнительно для улучшения метрики average precision можно бы было попробовать заняться генерацией признаков и применением PCA, LDA.
 
+**Визуализация c Optuna**
+
+
+
+Рисунок 16. История оптимизации для RandomForest.
+
+Рисунок 17. Контурный график для части гиперпараметров пайплайна с CatBoost.
+
+Рисунок 18. Контурный график для части гиперпараметров пайплайна с LightGBM.
+
 **Список литературы**
 
 1. [https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8](https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8)
