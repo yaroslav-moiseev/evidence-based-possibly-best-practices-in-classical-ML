@@ -217,11 +217,15 @@ Optuna позволяет легко визуализировать гиперп
 
 **Визуализация c Optuna**
 
-
+![image](https://user-images.githubusercontent.com/56043980/115703141-6c175600-a372-11eb-9e0c-f75627f49560.png)
 
 Рисунок 16. История оптимизации для RandomForest.
 
+![image](https://user-images.githubusercontent.com/56043980/115703189-7e918f80-a372-11eb-94bf-884ed2a84e86.png)
+
 Рисунок 17. Контурный график для части гиперпараметров пайплайна с CatBoost.
+
+![image](https://user-images.githubusercontent.com/56043980/115703237-8cdfab80-a372-11eb-8490-a99e6c3cd092.png)
 
 Рисунок 18. Контурный график для части гиперпараметров пайплайна с LightGBM.
 
