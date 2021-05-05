@@ -231,54 +231,29 @@ Optuna позволяет легко визуализировать гиперп
 
 **Список литературы**
 
-1.	Benchmarking Categorical Encoders
-https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8
-2.	A Benchmark Experiment on How to Encode Categorical Features in Predictive Modeling
-https://osf.io/356ed/download
-3.	Comparison of Selected Multiple Imputation Methods for Continuous Variables – Preliminary Simulation Study Results
-https://www.czasopisma.uni.lodz.pl/foe/article/view/2584
-4.	Accuracy of random-forest-based imputation of missing data in the presence of non-normality, non-linearity, and interaction
-https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01080-1
-5.	MissForest—non-parametric missing value imputation for mixed-type data
-https://academic.oup.com/bioinformatics/article/28/1/112/219101
-6.	A Novel Algorithm for Missing Data Imputation on Machine Learning  https://ieeexplore.ieee.org/document/8987895
-7.	Who wins the Miss Contest for Imputation Methods? Our Vote for Miss BooPF
-https://arxiv.org/abs/1711.11394
-8.	Isolation Forest
-https://ieeexplore.ieee.org/document/4781136
-9.	A Meta-Analysis of the Anomaly Detection Problem
-https://arxiv.org/abs/1503.01158
-10.	An Introduction to Outlier Ensembles
-https://www.springer.com/gp/book/9783319547640
-11.	Isolation Forest is the best Anomaly Detection Algorithm for Big Data Right Now
-https://towardsdatascience.com/isolation-forest-is-the-best-anomaly-detection-algorithm-for-big-data-right-now-e1a18ec0f94f
-12.	Scaling regression inputs by dividing by two standard deviations
-https://onlinelibrary.wiley.com/doi/10.1002/sim.3107
-13.	Alternatives to the Median Absolute Deviation
-https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10476408
-14.	Using Heteroscedasticity Consistent Standard Errors in the Linear Regression Model
-https://www.tandfonline.com/doi/abs/10.1080/00031305.2000.10474549
-15.	The Search for Categorical Correlation
-https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9
-16.	Correlation between discrete (categorical) variables
-https://rstudio-pubs-static.s3.amazonaws.com/558925_38b86f0530c9480fad4d029a4e4aea68.html
-17.	Beware Default Random Forest Importances
-https://explained.ai/rf-importance/index.html#6.2
-18.	A comparison of random forest variable selection methods for classification prediction modeling
-https://www.sciencedirect.com/science/article/abs/pii/S0957417419303574
-19.	A Unified Approach to Interpreting Model Predictions
-https://arxiv.org/abs/1705.07874
-20.	Classification evaluation
-https://www.nature.com/articles/nmeth.3945
-21.	An empirical comparison and evaluation of minority oversampling techniques on a large number of imbalanced datasets
-https://www.sciencedirect.com/science/article/abs/pii/S1568494619304429
-22.	A Study of the Behavior of Several Methods for Balancing Machine Learning Training Data
-https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.7757&rep=rep1&type=pdf
-23.	A New Supervised Over-Sampling Algorithm with Application to Protein-Nucleotide Binding Residue Prediction
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107676
-24.	New Oversampling Approaches Based on Polynomial Fitting for Imbalanced Data Sets
-https://ieeexplore.ieee.org/document/4670021
-25.	LVQ-SMOTE – Learning Vector Quantization based Synthetic Minority Over–sampling Technique for biomedical data
-https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-16
-26.	Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning
-https://arxiv.org/abs/1811.12808
+1. [Benchmarking Categorical Encoders](https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8)
+2. [A Benchmark Experiment on How to Encode Categorical Features in Predictive Modeling](https://osf.io/356ed/download)
+3. [Comparison of Selected Multiple Imputation Methods for Continuous Variables – Preliminary Simulation Study Results](https://www.czasopisma.uni.lodz.pl/foe/article/view/2584)
+4. [Accuracy of random-forest-based imputation of missing data in the presence of non-normality, non-linearity, and interaction](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01080-1)
+5. [MissForest—non-parametric missing value imputation for mixed-type data](https://academic.oup.com/bioinformatics/article/28/1/112/219101)
+6. [A Novel Algorithm for Missing Data Imputation on Machine Learning](https://ieeexplore.ieee.org/document/8987895)
+7. [Who wins the Miss Contest for Imputation Methods? Our Vote for Miss BooPF](https://arxiv.org/abs/1711.11394)
+8. [Isolation Forest](https://ieeexplore.ieee.org/document/4781136)
+9. [A Meta-Analysis of the Anomaly Detection Problem](https://arxiv.org/abs/1503.01158)
+10. [An Introduction to Outlier Ensembles](https://www.springer.com/gp/book/9783319547640)
+11. [Isolation Forest is the best Anomaly Detection Algorithm for Big Data Right Now](https://towardsdatascience.com/isolation-forest-is-the-best-anomaly-detection-algorithm-for-big-data-right-now-e1a18ec0f94f)
+12. [Scaling regression inputs by dividing by two standard deviations](https://onlinelibrary.wiley.com/doi/10.1002/sim.3107)
+13. [Alternatives to the Median Absolute Deviation](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10476408)
+14. [Using Heteroscedasticity Consistent Standard Errors in the Linear Regression Model](https://www.tandfonline.com/doi/abs/10.1080/00031305.2000.10474549)
+15. [The Search for Categorical Correlation](https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9)
+16. [Correlation between discrete (categorical) variables](https://rstudio-pubs-static.s3.amazonaws.com/558925_38b86f0530c9480fad4d029a4e4aea68.html)
+17. [Beware Default Random Forest Importances](https://explained.ai/rf-importance/index.html#6.2)
+18. [A comparison of random forest variable selection methods for classification prediction modeling](https://www.sciencedirect.com/science/article/abs/pii/S0957417419303574)
+19. [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
+20. [Classification evaluation](https://www.nature.com/articles/nmeth.3945)
+21. [An empirical comparison and evaluation of minority oversampling techniques on a large number of imbalanced datasets](https://www.sciencedirect.com/science/article/abs/pii/S1568494619304429)
+22. [A Study of the Behavior of Several Methods for Balancing Machine Learning Training Data](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.7757&amp;rep=rep1&amp;type=pdf)
+23. [A New Supervised Over-Sampling Algorithm with Application to Protein-Nucleotide Binding Residue Prediction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107676)
+24. [New Oversampling Approaches Based on Polynomial Fitting for Imbalanced Data Sets](https://ieeexplore.ieee.org/document/4670021)
+25. [LVQ-SMOTE – Learning Vector Quantization based Synthetic Minority Over–sampling Technique for biomedical data](https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-6-16)
+26. [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808)
